@@ -1,1 +1,3 @@
-# P5_T10_Sorin_Eduard_Bogdan
+Tudorascu Gabriel Sorin
+Uta Eduard Stefan
+Vasilescu Teodor Bogdan
